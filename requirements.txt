@@ -2,3 +2,4 @@ openai
 tweepy
 requests
 solana==0.25.0
+solders==0.15.0
