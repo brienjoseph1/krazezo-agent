@@ -1,4 +1,4 @@
 openai
 tweepy
-solana
 requests
+solana==0.25.0
