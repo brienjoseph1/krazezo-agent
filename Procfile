@@ -1,1 +1,2 @@
-start: python krazezo_bot.py
+start: python meme_coin_bot.py
+
