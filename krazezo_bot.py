@@ -4,7 +4,7 @@ import requests
 import openai
 import tweepy
 from solana.rpc.api import Client
-from solana.transaction import Transaction
+from solders.transaction import Transaction
 from solana.account import Account
 from spl.token.client import Token
 from solana.publickey import PublicKey
